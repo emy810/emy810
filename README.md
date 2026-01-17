@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hi, I'm Emebet! 👋
 
-<!--
-**emy810/emy810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer who loves learning new things and building small projects that help me grow.  
+Right now I'm focused on improving my **HTML**, **CSS**, **JavaScript**, and getting more confident with **Git & GitHub**.
 
-Here are some ideas to get you started:
+I enjoy creating simple, clean websites and experimenting with new ideas as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+- Beginner web developer on a learning journey  
+- Passionate about frontend development  
+- Always excited to try new tools and improve my skills  
+- Learning step by step and having fun along the way  
+
+---
+
+## 🛠️ Skills I'm Building
+- **HTML**  
+- **CSS**  
+- **JavaScript (beginner)**  
+- **Git & GitHub**  
+- **VS Code**
+
+---
+
+## 📌 Projects
+### 🌐 [My Portfolio](https://emy810.github.io/Portifolio/)
+A simple personal portfolio where I practice layout, styling, and clean structure.  
+I'm using it to track my progress and show what I'm learning.
+
+---
+
+
+## 🤝 Let's Connect
+I'm always open to learning from others, collaborating on beginner‑friendly projects, or just chatting about web development.  
+Feel free to say hi anytime!
+
+- **Email:** emymak@yahoo.com  
+- **LinkedIn:** https://www.linkedin.com/in/emebet-webdev/  
+
+  
+
+
