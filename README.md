@@ -1,7 +1,7 @@
 ### Hi, I'm Emebet! 👋
 
 I'm an aspiring web developer who loves learning new things and building small projects that help me grow.  
-Right now I'm focused on improving my **HTML**, **CSS**, **JavaScript**, and getting more confident with **Git & GitHub**.
+Right now I'm focused on improving my **HTML**, **CSS**, **JavaScript** and getting more confident with **Git & GitHub**.
 
 I enjoy creating simple, clean websites and experimenting with new ideas as I learn.
 
@@ -33,7 +33,7 @@ I'm using it to track my progress and show what I'm learning.
 
 
 ## 🤝 Let's Connect
-I'm always open to learning from others, collaborating on beginner‑friendly projects, or just chatting about web development.  
+I'm always open to learning from others, collaborating on beginner‑friendly projects or just chatting about web development.  
 Feel free to say hi anytime!
 
 - **Email:** emymak@yahoo.com  
