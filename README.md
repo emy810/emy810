@@ -1,4 +1,11 @@
-### Hi, I'm Emebet! 👋
+<div align="center">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation" />
+
+  <h1>Hi, I'm Emebet! 👋</h1>
+
+</div>
+
 
 I'm an aspiring web developer who loves learning new things and building small projects that help me grow.  
 Right now I'm focused on improving my **HTML**, **CSS**, **JavaScript** and getting more confident with **Git & GitHub**.
@@ -34,7 +41,7 @@ I'm using it to track my progress and show what I'm learning.
 
 ## 🤝 Let's Connect
 I'm always open to learning from others, collaborating on beginner‑friendly projects or just chatting about web development.  
-Feel free to say hi anytime!
+
 
 - **Email:** emymak@yahoo.com  
 - **LinkedIn:** https://www.linkedin.com/in/emebet-webdev/  
