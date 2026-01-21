@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/uVhWw4M2puM4bUJgM1/giphy.gif" width="200" alt="Coding animation" />
 
   <h1>Hi, I'm Emebet! 👋</h1>
 
