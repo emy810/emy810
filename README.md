@@ -28,11 +28,12 @@ I enjoy creating simple, clean websites and experimenting with new ideas as I le
 - **JavaScript (beginner)**  
 - **Git & GitHub**  
 - **VS Code**
+- **React**
 
 ---
 
 ## 📌 Projects
-### 🌐 [My Portfolio](https://emy810.github.io/Portifolio/)
+### 🌐 [My Portfolio][(https://emy810.github.io/My-Portfolio/)]
 A simple personal portfolio where I practice layout, styling and clean structure.  
 I'm using it to track my progress and show what I'm learning.
 
@@ -43,7 +44,7 @@ I'm using it to track my progress and show what I'm learning.
 I'm always open to learning from others, collaborating on beginner‑friendly projects or just chatting about web development.  
 
 
-- **Email:** emymak@yahoo.com  
+- **Email:** emebethunde@yahoo.com  
 - **LinkedIn:** https://www.linkedin.com/in/emebet-webdev/  
 
   
