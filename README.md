@@ -33,7 +33,7 @@ I enjoy creating simple, clean websites and experimenting with new ideas as I le
 ---
 
 ## 📌 Projects
-### 🌐 [My Portfolio][(https://emy810.github.io/My-Portfolio/)]
+### 🌐 [My Portfolio](https://emy810.github.io/My-Portfolio/)
 A simple personal portfolio where I practice layout, styling and clean structure.  
 I'm using it to track my progress and show what I'm learning.
 
