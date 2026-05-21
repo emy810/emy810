@@ -25,14 +25,29 @@ I enjoy creating simple, clean websites and experimenting with new ideas as I le
 ## 🛠️ Skills I'm Building
 - **HTML**  
 - **CSS**  
-- **JavaScript (beginner)**  
+- **JavaScript (beginner)**
+- **React**
 - **Git & GitHub**  
 - **VS Code**
-- **React**
+
 
 ---
 
 ## 📌 Projects
+### 🎮 Full‑Stack Memory Game  
+A collaborative project built during the HackYourFuture bootcamp.  
+A fun memory game where players flip cards to find matching pairs.
+
+- API‑driven backend with **Node.js**, **Express.js**, and **SQLite**  
+- Responsive layout and dynamic grid  
+- Three difficulty levels  
+- Timer, reveal logic, and win detection  
+
+🔗 **Live Demo:** https://ae-memory-game.onrender.com/  
+💻 **Source Code:** https://github.com/emy810/memory-game/tree/main  
+
+---
+
 ### 🌐 [My Portfolio](https://emy810.github.io/My-Portfolio/)
 A simple, clean personal portfolio where I practice layout, styling, and structured design.
 I use it to track my progress as a developer and showcase what I’m learning along the way.
