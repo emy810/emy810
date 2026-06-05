@@ -48,9 +48,9 @@ A fun memory game where players flip cards to find matching pairs.
 
 ---
 
-### 🌐 [My Portfolio](https://emy810.github.io/My-Portfolio/)
-A simple, clean personal portfolio where I practice layout, styling, and structured design.
-I use it to track my progress as a developer and showcase what I’m learning along the way.
+### 🌐 [My Portfolio](https://emebet-portfolio.vercel.app/)
+A clean, responsive personal portfolio showcasing my projects, videos, and frontend development journey.  
+Built with React, modern UI design, and fully deployed on Vercel.
 
 ---
 
