@@ -48,6 +48,21 @@ A fun memory game where players flip cards to find matching pairs.
 
 ---
 
+
+### 🛍️ Event App (Frontend Project)  
+A React-based event browsing and ticket flow application.  
+Users can explore events, view details, add items to the cart, and complete an order summary.
+
+- Built with **React Router**, component-based architecture  
+- Dynamic event detail pages  
+- Cart logic and order summary flow  
+- Clean, responsive UI  
+
+🔗 **Live Demo:** https://mid-frontend-project-skeleton-zahp.vercel.app/
+💻 **Source Code:** https://github.com/emy810/mid-frontend-project-skeleton
+
+---
+
 ## 🌐 My Portfolio  
 🚀 **Live Site:** https://emebet-portfolio.vercel.app/
 
