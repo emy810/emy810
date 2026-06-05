@@ -48,9 +48,11 @@ A fun memory game where players flip cards to find matching pairs.
 
 ---
 
-### 🌐 [My Portfolio](https://emebet-portfolio.vercel.app/)
-A clean, responsive personal portfolio showcasing my projects, videos, and frontend development journey.  
-Built with React, modern UI design, and fully deployed on Vercel.
+## 🌐 My Portfolio  
+🚀 **Live Site:** https://eme-portfolio.vercel.app/
+
+A clean and responsive developer portfolio where I showcase my projects, video demos, and growth as a frontend developer.  
+Built with **React**, modern UI design, and deployed on **Vercel**.
 
 ---
 
