@@ -49,7 +49,7 @@ A fun memory game where players flip cards to find matching pairs.
 ---
 
 ## 🌐 My Portfolio  
-🚀 **Live Site:** https://eme-portfolio.vercel.app/
+🚀 **Live Site:** https://emebet-portfolio.vercel.app/
 
 A clean and responsive developer portfolio where I showcase my projects, video demos, and growth as a frontend developer.  
 Built with **React**, modern UI design, and deployed on **Vercel**.
