@@ -54,7 +54,9 @@ Currently seeking  Frontend Developer opportunities
 
 A travel booking platform built with React, Firebase Authentication and Firestore.
 Originally developed as a HackYourFuture team project, I was responsible for authentication, user profiles and shared UI components. 
-After the programme ended and the application stopped working, I independently restored the Firebase backend, fixed authentication, replaced expired APIs and redeployed the application.
+After the programme ended and the application stopped working, 
+I independently restored the Firebase backend, fixed authentication, replaced expired APIs and redeployed the application.
+
 Highlights:
 
 - Firebase Authentication and Firestore integration
@@ -64,6 +66,7 @@ Highlights:
 - Independent maintenance and deployment
   
 🔗 Live Demo: https://travel-guru-one.vercel.app
+
 💻 Source Code: https://github.com/emy810/TravelGuru
 
 
@@ -79,6 +82,7 @@ Highlights:
 - Multiple difficulty levels
   
 🔗 Live Demo: https://ae-memory-game.onrender.com/
+
 💻 Source Code: https://github.com/emy810/memory-game
 
 
@@ -93,6 +97,7 @@ Highlights:
 - Responsive component-based design
   
 🔗 Live Demo: https://mid-frontend-project-skeleton-zahp.vercel.app/
+
 💻 Source Code: https://github.com/emy810/mid-frontend-project-skeleton
 
 
