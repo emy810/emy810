@@ -1,84 +1,113 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/uVhWw4M2puM4bUJgM1/giphy.gif" width="200" alt="Coding animation" />
+ 
 
   <h1>Hi, I'm Emebet! 👋</h1>
 
 </div>
 
 
-I'm an aspiring web developer who loves learning new things and building small projects that help me grow.  
-Right now I'm focused on improving my **HTML**, **CSS**, **JavaScript** and getting more confident with **Git & GitHub**.
 
-I enjoy creating simple, clean websites and experimenting with new ideas as I learn.
+Frontend Developer focused on building responsive, user-friendly web applications with React, JavaScript and Firebase.
+
+I recently completed the HackYourFuture Frontend Development programme and enjoy turning real-world problems into clean, maintainable solutions.
+
+One of my favourite projects is TravelGuru, a travel booking platform I helped build as part of a team and later restored independently after its original backend and data services became unavailable.
+
+Currently seeking  Frontend Developer opportunities
 
 ---
 
 ## 🌱 About Me
-- Beginner web developer on a learning journey  
-- Passionate about frontend development  
-- Always excited to try new tools and improve my skills  
-- Learning step by step and having fun along the way  
 
----
-
-## 🛠️ Skills I'm Building
-- **HTML**  
-- **CSS**  
-- **JavaScript (beginner)**
-- **React**
-- **Git & GitHub**  
-- **VS Code**
+- Frontend Developer based in Copenhagen, Denmark
+- Bachelor's degree in Mathematics
+- Background in healthcare and customer-facing work
+- Building applications with React, JavaScript, Firebase, Firestore and Vite
+- Enjoy improving existing applications, debugging issues and building intuitive user experiences
+- Interested in collaborative development, accessibility and modern frontend workflows
 
 
 ---
 
-## 📌 Projects
-### 🎮 Full‑Stack Memory Game  
-A collaborative project built during the HackYourFuture bootcamp.  
-A fun memory game where players flip cards to find matching pairs.
+## 🛠️ Tech Stack
 
-- API‑driven backend with **Node.js**, **Express.js**, and **SQLite**  
-- Responsive layout and dynamic grid  
-- Three difficulty levels  
-- Timer, reveal logic, and win detection  
-
-🔗 **Live Demo:** https://ae-memory-game.onrender.com/  
-💻 **Source Code:** https://github.com/emy810/memory-game/tree/main  
-
----
-
-
-### 🛍️ Event App (Frontend Project)  
-A React-based event browsing and ticket flow application.  
-Users can explore events, view details, add items to the cart, and complete an order summary.
-
-- Built with **React Router**, component-based architecture  
-- Dynamic event detail pages  
-- Cart logic and order summary flow  
-- Clean, responsive UI  
-
-🔗 **Live Demo:** https://mid-frontend-project-skeleton-zahp.vercel.app/
-💻 **Source Code:** https://github.com/emy810/mid-frontend-project-skeleton
-
----
-
-## 🌐 My Portfolio  
-🚀 **Live Site:** https://emebet-portfolio.vercel.app/
-
-A clean and responsive developer portfolio where I showcase my projects, video demos, and growth as a frontend developer.  
-Built with **React**, modern UI design, and deployed on **Vercel**.
-
----
-
-
-## 🤝 Let's Connect
-I'm always open to learning from others, collaborating on beginner‑friendly projects or just chatting about web development.  
-
-
-- **Email:** emebethunde@yahoo.com  
-- **LinkedIn:** https://www.linkedin.com/in/emebet-webdev/  
+- React
+- JavaScript
+- Firebase Authentication
+- Firestore
+- React Router
+- Vite
+- HTML5
+- CSS3
+- Git & GitHub
+- Responsive Design
 
   
+
+
+---
+
+🚀 Featured Projects
+
+✈️ TravelGuru
+
+A travel booking platform built with React, Firebase Authentication and Firestore.
+Originally developed as a HackYourFuture team project, I was responsible for authentication, user profiles and shared UI components. 
+After the programme ended and the application stopped working, I independently restored the Firebase backend, fixed authentication, replaced expired APIs and redeployed the application.
+Highlights:
+
+- Firebase Authentication and Firestore integration
+- User registration, login and traveller profiles
+- Service-layer architecture for package data
+- Responsive React user interface
+- Independent maintenance and deployment
+  
+🔗 Live Demo: https://travel-guru-one.vercel.app
+💻 Source Code: https://github.com/emy810/TravelGuru
+
+
+🎮 Full-Stack Memory Game
+
+A collaborative full-stack application built during the HackYourFuture programme.
+Players match card pairs against the clock while the backend serves card data from an SQLite database.
+Highlights:
+
+- Node.js, Express and SQLite backend
+- Dynamic game logic and timer functionality
+- Responsive design
+- Multiple difficulty levels
+  
+🔗 Live Demo: https://ae-memory-game.onrender.com/
+💻 Source Code: https://github.com/emy810/memory-game
+
+
+🎟️ Event Startup App
+
+A React application where users can browse events, view details, manage a cart and complete a checkout flow.
+Highlights:
+
+- React Router navigation
+- Event detail pages
+- Cart and order summary functionality
+- Responsive component-based design
+  
+🔗 Live Demo: https://mid-frontend-project-skeleton-zahp.vercel.app/
+💻 Source Code: https://github.com/emy810/mid-frontend-project-skeleton
+
+
+🌐 Portfolio
+
+🔗 Portfolio Website: https://emebet-portfolio.vercel.app/
+
+A responsive React portfolio showcasing my projects, technical growth and ongoing learning as a frontend developer.
+
+
+🤝 Let's Connect
+
+I'm currently looking for Junior Frontend Developer opportunities and enjoy collaborating on projects that help me grow as a developer while contributing to meaningful user experiences.
+
+- 💼 LinkedIn: https://www.linkedin.com/in/emebet-webdev/
+- 🐙 GitHub: https://github.com/emy810
 
 
