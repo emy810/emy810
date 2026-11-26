@@ -14,7 +14,7 @@ I recently completed the HackYourFuture Frontend Development programme and enjoy
 
 One of my favourite projects is TravelGuru, a travel booking platform I helped build as part of a team and later restored independently after its original backend and data services became unavailable.
 
-Currently seeking  Frontend Developer opportunities
+Currently seeking Junior Frontend Developer opportunities.
 
 ---
 
