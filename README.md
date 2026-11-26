@@ -8,7 +8,7 @@
 
 
 
-Frontend Developer focused on building responsive, user-friendly web applications with React, JavaScript and Firebase.
+Frontend Developer focused on building responsive, user-friendly web applications with React, JavaScript and Firebase. I enjoy solving real-world problems, improving existing applications and creating intuitive user experiences
 
 I recently completed the HackYourFuture Frontend Development programme and enjoy turning real-world problems into clean, maintainable solutions.
 
@@ -18,7 +18,7 @@ Currently seeking  Frontend Developer opportunities
 
 ---
 
-## 🌱 About Me
+### 🌱 About Me
 
 - Frontend Developer based in Copenhagen, Denmark
 - Bachelor's degree in Mathematics
@@ -30,7 +30,7 @@ Currently seeking  Frontend Developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - React
 - JavaScript
@@ -48,16 +48,16 @@ Currently seeking  Frontend Developer opportunities
 
 ---
 
-🚀 Featured Projects
+#### 🚀 Featured Projects
 
-✈️ TravelGuru
+### ✈️ TravelGuru
 
 A travel booking platform built with React, Firebase Authentication and Firestore.
 Originally developed as a HackYourFuture team project, I was responsible for authentication, user profiles and shared UI components. 
 After the programme ended and the application stopped working, 
 I independently restored the Firebase backend, fixed authentication, replaced expired APIs and redeployed the application.
 
-Highlights:
+## Highlights:
 
 - Firebase Authentication and Firestore integration
 - User registration, login and traveller profiles
@@ -70,7 +70,7 @@ Highlights:
 💻 Source Code: https://github.com/emy810/TravelGuru
 
 
-🎮 Full-Stack Memory Game
+### 🎮 Full-Stack Memory Game
 
 A collaborative full-stack application built during the HackYourFuture programme.
 Players match card pairs against the clock while the backend serves card data from an SQLite database.
@@ -86,7 +86,7 @@ Highlights:
 💻 Source Code: https://github.com/emy810/memory-game
 
 
-🎟️ Event Startup App
+### 🎟️ Event Startup App
 
 A React application where users can browse events, view details, manage a cart and complete a checkout flow.
 Highlights:
@@ -98,21 +98,21 @@ Highlights:
   
 🔗 Live Demo: https://mid-frontend-project-skeleton-zahp.vercel.app/
 
-💻 Source Code: https://github.com/emy810/mid-frontend-project-skeleton
+ 💻 Source Code: https://github.com/emy810/mid-frontend-project-skeleton
 
 
-🌐 Portfolio
+### 🌐 Portfolio
 
-🔗 Portfolio Website: https://emebet-portfolio.vercel.app/
+ 🔗 Portfolio Website: https://emebet-portfolio.vercel.app/
 
 A responsive React portfolio showcasing my projects, technical growth and ongoing learning as a frontend developer.
 
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm currently looking for Junior Frontend Developer opportunities and enjoy collaborating on projects that help me grow as a developer while contributing to meaningful user experiences.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/emebet-webdev/
-- 🐙 GitHub: https://github.com/emy810
+ - 💼 LinkedIn: https://www.linkedin.com/in/emebet-webdev/
+ - 🐙 GitHub: https://github.com/emy810
 
 
